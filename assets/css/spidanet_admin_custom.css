@@ -1,0 +1,17 @@
+.sep{ margin: 0 10px; }
+.spidanet_summary thead th { padding: 30px; text-align:center; }
+.spidanet_summary tbody td { padding: 30px; text-align:center; font-size: 26px; }
+.spidanet_heading { font-size:26px; }
+.spidanet_credit { color: #008000 !important; }
+.spidanet_debit { color: #FF0000 !important; }
+.spidanet_debit_row { background: #f4433659; }
+#spidanet_pay_popup { margin:0 0 0 10px; padding:10px; font-size:18px; }
+.spidanet_summary .spinner { float:none; }
+.strnx tbody td { text-align: center; }
+.strnx thead td { text-align: center; }
+.spidanet_pickup { background: transparent url('../images/pickup.png') no-repeat 5px; }
+.spidanet_delivery { background: transparent url('../images/delivery.png') no-repeat 5px; }
+.spidanet_pending { background: transparent url('../images/pending.png') no-repeat 5px; }
+.show_fltrs_wrap { margin: 10px 0px; }
+.spidanet_show_fltrs { padding: 7px; display: inline-block; border: 1px solid #9E9E9E; background: #9e9e9e69; border-radius: 5px; text-transform: capitalize; }
+.show_fltrs_label { padding: 7px; display: inline-block; font-weight: bold; }
